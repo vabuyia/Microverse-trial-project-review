@@ -31,6 +31,7 @@ figure img {
   display: block;
   text-align: center;
 }
+
 #tribute-info {
   margin: 50px 0;
 }
@@ -41,14 +42,14 @@ ul {
   text-align: left;
 }
 
-#tribute-info p {
-  margin: 30px auto;
+footer p {
+  margin: 50px auto;
   width: 70%;
   text-align: center;
 }
 
-footer p {
-  margin: 50px auto;
+#tribute-info p {
+  margin: 30px auto;
   width: 70%;
   text-align: center;
 }
