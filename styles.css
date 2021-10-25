@@ -1,7 +1,7 @@
 #main {
   width: 80%;
   margin: 0 auto;
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 header h1 {
@@ -10,19 +10,23 @@ header h1 {
   text-align: center;
   color: #dfc9c9;
 }
+
 header p {
   text-align: center;
   color: #c0c0c0;
   padding: 0 0 20px 0;
 }
+
 figure {
   background-color: white;
 }
+
 figure img {
   width: 70%;
   display: block;
   margin: auto;
 }
+
 #img-caption {
   display: block;
   text-align: center;
@@ -30,16 +34,19 @@ figure img {
 #tribute-info {
   margin: 50px 0;
 }
+
 ul {
   margin: auto;
   width: 70%;
   text-align: left;
 }
+
 #tribute-info p {
   margin: 30px auto;
   width: 70%;
   text-align: center;
 }
+
 footer p {
   margin: 50px auto;
   width: 70%;
